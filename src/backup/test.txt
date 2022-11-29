@@ -1,0 +1,1 @@
+xor(and(negate(a),or(b,nand(nxor(c,b),a))),d)
